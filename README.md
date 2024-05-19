@@ -2,7 +2,7 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Проект CV](https://github.com/NataliaCH702/Portfolio_DS/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20pandas) | Cегментация картинок персонажей на классы | python, pandas, numpy, matplotlib, cv2, tensorflow      |
+| 1.   | [Проект CV](https://github.com/NataliaCH702/Portfolio_DS/tree/main/Live2D/U-Net%20image%20multiclass%20segmentation) | Cегментация картинок персонажей на классы | python, pandas, numpy, matplotlib, cv2, tensorflow      |
 
 ## Портфолио работ Yandex Practicum
 
