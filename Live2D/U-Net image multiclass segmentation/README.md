@@ -17,4 +17,9 @@
 Использовалась архитектура U-Net, получен удовлетворительный результат для дальнейшей работы  
 
 Посмотреть результат на картинке ниже:
-![40 epochs](https://github.com/NataliaCH702/Portfolio_DS/assets/168647142/b13db2eb-48b4-432a-be27-eae3f2e31b9a)
+![40 epochs](https://github.com/NataliaCH702/Portfolio_DS/assets/168647142/b13db2eb-48b4-432a-be27-eae3f2e31b9a)  
+
+Если нарезанную текстуру наложить на образец, можно получить подобную анимацию:  
+![2024-05-2114-15-17-ezgif com-video-to-gif-converter](https://github.com/NataliaCH702/Portfolio_DS/assets/168647142/f0d3e93a-c92e-44c8-b5ba-24b3a32d9162)
+
+Результат предварительный и нуждается в дальнейшей обработке
